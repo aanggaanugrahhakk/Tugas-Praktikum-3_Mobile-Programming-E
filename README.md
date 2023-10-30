@@ -28,13 +28,13 @@ Berikut alur penjelasan skrip tersebut:
 - Kelas ParagraphWidget adalah widget stateful, yang berarti dapat mengubah statusnya selama masa pakai widget. Namun, dalam kasus ini, kelas ParagraphWidget tidak mengubah statusnya.
 
 Sitasi:
--  https://stackoverflow.com/questions/72640150/getting-error-while-running-flutter-application-using-android-studio
-- https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html
-- https://docs.flutter.dev/ui/interactivity
-- https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html
-- https://github.com/flutter/flutter/issues/33566
-- https://www.geeksforgeeks.org/flutter-stateful-vs-stateless-widgets/
-- https://www.perplexity.ai/search/Penjelasan-penyelesaian-skrip-NkRu04UuQuOlNNieE8ynsA?s=c
+- [1] https://stackoverflow.com/questions/72640150/getting-error-while-running-flutter-application-using-android-studio
+- [2] https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html
+- [3] https://docs.flutter.dev/ui/interactivity
+- [4] https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html
+- [5] https://github.com/flutter/flutter/issues/33566
+- [6] https://www.geeksforgeeks.org/flutter-stateful-vs-stateless-widgets/
+- [7] https://www.perplexity.ai/search/Penjelasan-penyelesaian-skrip-NkRu04UuQuOlNNieE8ynsA?s=c
 ## 🔗 Link Data Diri
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anugrahak)
 
