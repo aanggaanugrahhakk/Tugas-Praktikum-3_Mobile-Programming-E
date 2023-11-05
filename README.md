@@ -13,7 +13,7 @@ Penjelasan penyelesaian Widget yang digunakan di skrip:
 - Properti home widget MaterialApp diatur ke sebuah contoh kelas MyHomePage.
 - Kelas MyHomePage adalah widget stateless yang mengembalikan widget Scaffold. Widget Scaffold menyediakan struktur dasar untuk aplikasi, termasuk bilah aplikasi dan badan.
 - Properti appBar dari widget Scaffold diatur ke sebuah instance dari kelas AppBar, yang menampilkan judul "Biodata".
-- Properti body dari widget Scaffold diatur ke widget Center, yang memusatkan anak widget secara vertikal dan horizontal. Anak dari widget Center adalah widget Column, yang menampilkan dua contoh kelas ParagraphWidget.
+- Properti body dari widget Scaffold diatur ke widget Center, yang memusatkan widget children secara vertikal dan horizontal. Anak dari widget Center adalah widget Column, yang menampilkan dua contoh kelas ParagraphWidget.
 - Kelas ParagraphWidget adalah widget khusus yang membutuhkan dua argumen yang diperlukan: text dan lines. Argumen text adalah teks yang akan ditampilkan, dan argumen lines adalah jumlah baris yang harus diisi oleh teks.
 - Kelas ParagraphWidget mengembalikan widget Container yang berisi widget Text. Widget Text menampilkan teks yang diteruskan ke widget dan menerapkan berbagai gaya padanya, seperti ukuran font, warna, dan dekorasi. Properti maxLines dari widget Text diatur ke argumen lines yang diteruskan ke widget, yang membatasi jumlah baris yang dapat ditempati teks.
 - Properti height dari widget Container diatur ke lines * 75, yang mengatur tinggi wadah berdasarkan jumlah baris yang ditempati teks. 
